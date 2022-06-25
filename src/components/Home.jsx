@@ -1,9 +1,8 @@
 import React from 'react'
 import MemberList from '../database/MembersList.json'
-import {v4 as uuid} from 'uuid';
+
 
 export default function Home() {
-    let createId = uuid();
     const MembersArray = MemberList.members
 
     
