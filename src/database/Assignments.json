@@ -1,0 +1,11 @@
+{
+    "assignments":[
+        {"assignment":"Opening Prayer"},
+        {"assignment":"Closing Prayer"},
+        {"assignment":"First Speaker"},
+        {"assignment":"Second Speaker"},
+        {"assignment":"Third Speaker"},
+        {"assignment":"Pianist"},
+        {"assignment":"Conductor"}
+    ]
+}

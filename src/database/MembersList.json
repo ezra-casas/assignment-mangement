@@ -1,7 +1,8 @@
 {
     "members":[
-        {"name":"Ezra","assignment":"Vice City"},
-        {"name":"Marianne","assignment":"Grove Street"},
-        {"name":"Pahoran","assignment":"Liberty City"}
+        {"name":"Ezra Casas","assignment":"Opening Prayer"},
+        {"name":"Marianne Casas","assignment":"Grove Street"},
+        {"name":"Pahoran Bustos","assignment":"Liberty City"},
+        {"name":"Daniel Portillo","assignment":"Liberty City"}
     ]
 }
