@@ -1,0 +1,17 @@
+table{
+    border-collapse: collapse;
+    overflow: hidden;
+}
+th, td{
+    padding: 1rem;
+    border-bottom: 2px solid white;
+}
+table{
+    border-collapse: collapse;
+}
+td{
+    text-align: center;
+}
+tr:not(:first-child):hover{
+    background-color: cadetblue;
+}

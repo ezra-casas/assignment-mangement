@@ -1,7 +1,7 @@
 import React from 'react'
-import MemberList from '../database/MembersList.json'
+import MemberList from '../../../data/MembersList.json'
 
-import '../css/members.css'
+import '../../../assets/css/members.css'
 export default function Members() {
     const MembersArray = MemberList.members
     // maps in react cannot use {}

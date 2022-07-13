@@ -1,7 +1,7 @@
 import React from 'react'
-import assignmentList from '../database/Assignments'
+import assignmentList from '../../../data/Assignments.json'
 
-import '../css/assignments.css';
+import '../../../assets/css/assignments.css';
 
 export default function Members() {
     const assignmentArray = assignmentList.assignments

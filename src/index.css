@@ -7,11 +7,6 @@ body {
   -moz-osx-font-smoothing: grayscale;
   background-color: #CC9900;
 }
-
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
-}
 input{
   border-radius: 10px;
   border-style: none;
@@ -26,8 +21,13 @@ button{
   border-style: none;
   border-radius: 8px;
   height: 50px;
+  width: 100px;
+  font-weight: bold;
 }
 h1{
   margin: 0;
-  
+}
+input{
+  padding: 15px;
+  margin: 0;
 }
